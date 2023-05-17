@@ -116,6 +116,12 @@ h1{
     padding-left: 20px
 }
 
+.division-stress-cause ul li{
+    color:#d26459;
+    font-size: larger;
+    padding-left: 20px
+}
+
 .container-stress-help {
     display: flex;
     margin: 0 auto;
