@@ -260,3 +260,15 @@ ul li{
   .accordion.active .accordion__answer {
     display: block;
   }
+
+  .navbar {
+    background-color: lightblue;
+  }
+  
+  .dropdown-menu {
+    background-color: lightblue;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #555;
+  }
